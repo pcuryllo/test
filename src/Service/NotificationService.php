@@ -2,7 +2,8 @@
 
 namespace App\Service;
 
-use App\Model\Base\NotificationInterface;
+
+use App\Domain\Notification\Model\Base\NotificationInterface;
 
 /**
  * Class NotificationService
